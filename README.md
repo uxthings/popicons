@@ -115,7 +115,7 @@ By typing `<Popicons` VS Code, auto-complete should list all available icons.
 
 ## Get Popicons Pro via the npm CLI
 
-Using npm (recommended):
+Using npm:
 
 ```
 npx i popicons@latest
