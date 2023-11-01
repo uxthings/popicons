@@ -2,7 +2,7 @@
 
 Popicons is an icon set designed by [Filip @filipistyping](https://x.com/filipistyping). Popicons is a 20×20 icon set that features line, solid, and duotone variants. Popicons features 200+ free icons and growing collection of paid icons.
 
-To upgrade to Popicons Pro and get access to the entire icon set, [click here](https://popicons.cc).
+To upgrade to Popicons Pro, [follow this link](https://popicons.cc).
 
 Popicons is available in the following formats:
 
