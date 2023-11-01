@@ -93,7 +93,8 @@ Popicons{IconName}{Variant}
 
 By typing `<Popicons` VS Code, auto-complete should list all available icons.
 
-Note that Popicons is packaged in such a way as to enable tree shaking. No barrel files are used. This means your dev server should only bundle the icons you actually use.
+> [!NOTE]
+> Note that Popicons is packaged in such a way as to enable tree shaking. No barrel files are used. This means your dev server should only bundle the icons you actually use.
 
 ## Get Popicons Pro via the NPM CLI
 
@@ -103,7 +104,8 @@ Using NPM (recommended):
 npx i --save-dev popicons@latest
 ```
 
-Note that the `@latest` is required to ensure you get the latest version of the command-line interface.
+> [!NOTE]
+> Note that the `@latest` is required to ensure you get the latest version of the command-line interface.
 
 Please refer to the NPM CLI for more information:
 
@@ -128,7 +130,8 @@ npx popicons@latest login
 npx popicons@latest i --outdir=src/popicons --framework=react-tsx
 ```
 
-Note that the NPM CLI saves icons as source code e.g. `popicons.tsx`, so that it's easier to move between devices. You can technically set `--outdir` to `--outdir=node_modules` but this is not recommended because icons won't automatically be installed when calling `npm i`.
+> [!NOTE]
+> Note that the NPM CLI saves icons as source code e.g. `popicons.tsx`, so that it's easier to move between devices. You can technically set `--outdir` to `--outdir=node_modules` but this is not recommended because icons won't automatically be installed when calling `npm i`.
 
 ### Import Popicons from the NPM CLI
 
@@ -156,7 +159,8 @@ Popicons{IconName}{Variant}
 
 By typing `<Popicons` VS Code, auto-complete should list all available icons.
 
-Note that Popicons is packaged in such a way as to enable tree shaking. No barrel files are used. This means your dev server should only bundle the icons you actually use.
+> [!NOTE]
+> Note that Popicons is packaged in such a way as to enable tree shaking. No barrel files are used. This means your dev server should only bundle the icons you actually use.
 
 ### Upgrade using the NPM CLI
 
@@ -167,6 +171,13 @@ npx popicons@latest i --outdir=src/popicons --framework=react-tsx --force
 ```
 
 Note that the `--force` command is used to overwrite `src/popicons`. You may also delete `src/popicons` manually and retry without the force command.
+
+## License
+
+Popicons is licensed as [MIT open source](https://github.com/uxthings/popicons/blob/main/LICENSE).
+
+> ![IMPORTANT]
+> Note this license applies to free icons exclusively.
 
 ## Support
 
