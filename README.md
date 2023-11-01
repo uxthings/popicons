@@ -122,7 +122,7 @@ npx i --save-dev popicons@latest
 ```
 
 > [!NOTE]
-> ``@latest` is intentional to ensure you get the latest version of the command-line interface.
+> `@latest` is intentional to ensure you get the latest version of the command-line interface.
 
 Please refer to the npm CLI for more information:
 
