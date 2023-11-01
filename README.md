@@ -176,7 +176,7 @@ Note that the `--force` command is used to overwrite `src/popicons`. You may als
 
 Popicons is licensed as [MIT open source](https://github.com/uxthings/popicons/blob/main/LICENSE).
 
-> ![IMPORTANT]
+> [!IMPORTANT]
 > Note this license applies to free icons exclusively.
 
 ## Support
