@@ -181,8 +181,8 @@ Popicons is licensed as [MIT open source](https://github.com/uxthings/popicons/b
 
 ## Support
 
-If you have any problems, please create an [issue here](https://github.com/uxthings/popicons/issues/new).
+If you have any problems, [create an issue here](https://github.com/uxthings/popicons/issues/new).
 
-To request an, please follow [this link](https://popicons.lemonsqueezy.com/checkout/buy/422a00c5-611d-46fc-aa4c-8d6176347fd1).
+To request an icon, [follow this link](https://popicons.lemonsqueezy.com/checkout/buy/422a00c5-611d-46fc-aa4c-8d6176347fd1).
 
-To request a custom icon set, please follow [this link](https://cal.com/uxthings/popicons).
+To request a custom icon set, [follow this link](https://cal.com/uxthings/popicons).
