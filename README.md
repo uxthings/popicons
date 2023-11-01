@@ -1,4 +1,4 @@
-# Welcome to Popicons
+# Popicons
 
 Popicons is an icon set designed by [Filip @filipistyping](https://x.com/filipistyping). Popicons is a 20×20 icon set that features line, solid, and duotone variants. Popicons features 200+ free icons and growing collection of paid icons.
 
@@ -69,17 +69,34 @@ yarn add @popicons/react-native
 
 ### Import Popicons from npm
 
-To import Popicons when installed using npm, use the following syntax:
+To import Popicons when installed using npm, use the following syntax.
+
+**For React:**
 
 ```tsx
 import { PopiconsHomeLine, PopiconsHomeSolid, PopiconsHomeDuotone } from "@popicons/react"
 
-function Component() {
+function ReactApp() {
   return (
     <>
       <PopiconsHomeLine className="icon" />
       <PopiconsHomeSolid style={{ width: 32, height: 32 }} />
       <PopiconsHomeDuotone className="icon" style={{ width: 32, height: 32 }} />
+    </>
+  )
+}
+```
+
+**For React Native:**
+
+```tsx
+import { PopiconsHomeLine, PopiconsHomeSolid, PopiconsHomeDuotone } from "@popicons/react-native"
+
+function ReactNativeApp() {
+  return (
+    <>
+      <PopiconsHomeLine />
+      <PopiconsHomeSolid width={32} height={32} />
     </>
   )
 }
@@ -135,17 +152,34 @@ npx popicons@latest i --outdir=src/popicons --framework=react-tsx
 
 ### Import Popicons from the npm CLI
 
-To import Popicons when installed using the npm CLI, use the following syntax:
+To import Popicons when installed using the npm CLI, use the following syntax.
+
+**For React:**
 
 ```tsx
 import { PopiconsHomeLine, PopiconsHomeSolid, PopiconsHomeDuotone } from "./popicons/popicons"
 
-function Component() {
+function ReactApp() {
   return (
     <>
       <PopiconsHomeLine className="icon" />
       <PopiconsHomeSolid style={{ width: 32, height: 32 }} />
       <PopiconsHomeDuotone className="icon" style={{ width: 32, height: 32 }} />
+    </>
+  )
+}
+```
+
+**For React Native:**
+
+```tsx
+import { PopiconsHomeLine, PopiconsHomeSolid, PopiconsHomeDuotone } from "./popicons/popicons"
+
+function ReactNativeApp() {
+  return (
+    <>
+      <PopiconsHomeLine />
+      <PopiconsHomeSolid width={32} height={32} />
     </>
   )
 }
