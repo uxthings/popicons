@@ -10,14 +10,10 @@
 
 <p align="center">
   Bring life & personality to your projects with Popicons.
-<br>
- Support for basic <a href="#svg">SVG</a>, <a href="#react">React</a> and <a href="#reactnative">React Native</a>.
-<br><br>
-  Support for others coming soon.
 <p>
 
 <p align="center">
-  <a href="https://popicons.cc/icons"><strong>Browse Popicons &rarr;</strong></a>
+  <a href="https://popicons.cc/"><strong>Visit website &rarr;</strong></a>
 </p>
 
 <p align="center">
