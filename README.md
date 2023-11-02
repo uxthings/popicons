@@ -34,6 +34,9 @@ Designed by [filip](https://x.com/filipistyping), Popicons offers line, solid, a
   - [React](#react)
   - [React Native](#react-native)
 - [Get Popicons Pro via the npm CLI](#get-popicons-pro-via-the-npm-cli)
+  - [Installation](#installation)
+  - [Import](#import)
+  - [Upgrade](#upgrade)
 - [Figma plugin](#figma-plugin)
 - [🎈 Popicons Pro](#get-popicons-pro)
 - [Support](#support)
@@ -110,13 +113,12 @@ Popicons support tree shaking, ensuring only used icons are bundled.
 
 ## Get Popicons Pro via the npm CLI
 
-**Install**
-
+### Installation
 ```
 npx i popicons@latest
 ```
 
-Commands:
+**Commands:**
 
 ```
     npx popicons@latest upgrade             Upgrade to Popicons Pro
@@ -137,17 +139,13 @@ npx popicons@latest i --outdir=src/popicons --framework=react-tsx
 
 The npm CLI saves icons as source code e.g. `popicons.tsx`, so that it's easier to move between devices. You can technically set `--outdir` to `--outdir=node_modules` but this is not recommended because icons won't automatically be installed when calling `npm i`.
 
-**Import**
-
-To import Popicons when installed using the npm CLI, use the following syntax.
-
-**For React & React Native:**
+### Import
 
 ```tsx
 import { PopiconsHomeLine, PopiconsHomeSolid, PopiconsHomeDuotone } from "./popicons/popicons"
 ```
 
-**Upgrade**
+### Upgrade
 
 To upgrade using the npm CLI, simply run the following command:
 
