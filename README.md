@@ -161,9 +161,7 @@ The `--force` command is used to overwrite `src/popicons`. You may also delete `
 
 ## Figma plugin
 
-Popicons is available as a Figma plugin:
-
-- [Official Figma plugin](https://www.figma.com/community/plugin/1293959934134570572/popicons)
+Popicons is available as a [Figma plugin](https://www.figma.com/community/plugin/1293959934134570572/popicons) as well.
 
 <br>
 
