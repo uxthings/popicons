@@ -41,8 +41,6 @@ Available in the following formats:
   - [React](#react)
   - [React Native](#react-native)
 - [Get Popicons Pro via the npm CLI](#get-popicons-pro-via-the-npm-cli)
-  - [Import Popicons from the npm CLI](#import-popicons-from-the-npm-cli)
-  - [Upgrade using the npm CLI](#upgrade-using-the-npm-cli)
 - [Figma plugin](#figma-plugin)
 - [🎈 Popicons Pro](#get-popicons-pro)
 - [Support](#support)
@@ -50,6 +48,8 @@ Available in the following formats:
 ## Usage
 
 ### SVG
+
+Easiest way to use Popicons. Simply head over [here](https://popicons.cc/icons), and copy icons directly as SVG code (support for JSX included).
 
 ### React
 
@@ -109,13 +109,11 @@ npm i @popicons/react-native@latest
 
 Popicons follow the naming convention: `Popicons{IconName}{Variant}`. Use your IDE's auto-complete for a list of available icons, or simply use [website search](https://popicons.cc/icons).
 
-
-> [!NOTE]
-> Popicons support tree shaking, ensuring only used icons are bundled.
+Popicons support tree shaking, ensuring only used icons are bundled.
 
 ## Get Popicons Pro via the npm CLI
 
-Install the latest version:
+**Install**
 
 ```
 npx i popicons@latest
@@ -124,8 +122,6 @@ npx i popicons@latest
 Commands:
 
 ```
-  Usage
-
     npx popicons@latest upgrade             Upgrade to Popicons Pro
     npx popicons@latest login               Log in to Popicons Pro
     npx popicons@latest logout              Log out of Popicons Pro
@@ -142,10 +138,9 @@ npx popicons@latest login
 npx popicons@latest i --outdir=src/popicons --framework=react-tsx
 ```
 
-> [!NOTE]
-> The npm CLI saves icons as source code e.g. `popicons.tsx`, so that it's easier to move between devices. You can technically set `--outdir` to `--outdir=node_modules` but this is not recommended because icons won't automatically be installed when calling `npm i`.
+The npm CLI saves icons as source code e.g. `popicons.tsx`, so that it's easier to move between devices. You can technically set `--outdir` to `--outdir=node_modules` but this is not recommended because icons won't automatically be installed when calling `npm i`.
 
-### Importing icons from the npm CLI
+**Import**
 
 To import Popicons when installed using the npm CLI, use the following syntax.
 
@@ -155,7 +150,7 @@ To import Popicons when installed using the npm CLI, use the following syntax.
 import { PopiconsHomeLine, PopiconsHomeSolid, PopiconsHomeDuotone } from "./popicons/popicons"
 ```
 
-### Upgrade using the npm CLI
+**Upgrade**
 
 To upgrade using the npm CLI, simply run the following command:
 
@@ -163,8 +158,7 @@ To upgrade using the npm CLI, simply run the following command:
 npx popicons@latest i --outdir=src/popicons --framework=react-tsx --force
 ```
 
-> [!NOTE]
-> The `--force` command is used to overwrite `src/popicons`. You may also delete `src/popicons` manually and retry without the force command.
+The `--force` command is used to overwrite `src/popicons`. You may also delete `src/popicons` manually and retry without the force command.
 
 ## Figma plugin
 
