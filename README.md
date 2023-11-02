@@ -25,11 +25,7 @@
 
 Designed by [filip](https://x.com/filipistyping), Popicons offers line, solid, and duotone icon variants on a 20px grid with a 1.5px stroke.
 
-Available in the following formats:
-
-- SVG
-- React (JavaScript & Typescript)
-- React Native (JavaScript & TypeScript)
+<br>
 
 ## Table of contents
 
@@ -41,6 +37,8 @@ Available in the following formats:
 - [Figma plugin](#figma-plugin)
 - [🎈 Popicons Pro](#get-popicons-pro)
 - [Support](#support)
+
+<br>
 
 ## Usage
 
@@ -108,6 +106,8 @@ Popicons follow the naming convention: `Popicons{IconName}{Variant}`. Use your I
 
 Popicons support tree shaking, ensuring only used icons are bundled.
 
+<br>
+
 ## Get Popicons Pro via the npm CLI
 
 **Install**
@@ -157,21 +157,29 @@ npx popicons@latest i --outdir=src/popicons --framework=react-tsx --force
 
 The `--force` command is used to overwrite `src/popicons`. You may also delete `src/popicons` manually and retry without the force command.
 
+<br>
+
 ## Figma plugin
 
-Popicons is available as a Figma community plugin at:
+Popicons is available as a Figma plugin:
 
-- [Popicons Figma plugin](https://www.figma.com/community/plugin/1293959934134570572/popicons)
+- [Official Figma plugin](https://www.figma.com/community/plugin/1293959934134570572/popicons)
+
+<br>
 
 ## Get Popicons Pro
 
 To upgrade to Popicons Pro which unlocks all of the icons, [follow this link](https://popicons.cc/#pricing). 
+
+<br>
 
 ## License
 
 Popicons is licensed as [MIT open source](https://github.com/uxthings/popicons/blob/main/LICENSE).
 
 The MIT license applies exclusively to free icons.
+
+<br>
 
 ## Support
 
