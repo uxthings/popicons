@@ -1,8 +1,33 @@
 # 🎈 Popicons
 
-Popicons is an icon set designed by [Filip @filipistyping](https://x.com/filipistyping). Popicons is a 20×20 icon set that features line, solid, and duotone variants. Popicons features 200+ free icons and growing collection of paid icons.
+<p align="center">
+  <a href="https://popicons.cc/#gh-light-mode-only" target="_blank">
+    <img src="./.github/popicons-light.svg" alt="Popicons" width="200">
+  </a>
+  <a href="https://popicons.cc/#gh-dark-mode-only" target="_blank">
+    <img src="./.github/popicons-dark.svg" alt="Popicons" width="200">
+  </a>
+</p>
 
-To upgrade to Popicons Pro, [follow this link](https://popicons.cc).
+<p align="center">
+  Bring life & personality to your projects and make your designs *pop* with Popicons.
+<br>Available as basic <a href="#svg">SVG icons</a> and as <a href="#react">React</a> and <a href="#vue">React Native</a> libraries.
+<br>
+  Vue coming up soon.
+<p>
+
+<p align="center">
+  <a href="https://popicons.cc/search"><strong>Browse at popicons.cc/search &rarr;</strong></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/tailwindlabs/heroicons/releases"><img src="https://img.shields.io/npm/v/popicons" alt="Latest Release"></a>
+    <a href="https://github.com/uxthings/popicons/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
+</p>
+
+Popicons is an icon set designed by [filip @filipistyping](https://x.com/filipistyping). Popicons is a 20×20 icon set that features line, solid, and duotone variants. 
+
+To upgrade to Popicons Pro, [follow this link](https://popicons.cc/#pricing).
 
 Popicons is available in the following formats:
 
@@ -211,8 +236,7 @@ npx popicons@latest i --outdir=src/popicons --framework=react-tsx --force
 
 Popicons is licensed as [MIT open source](https://github.com/uxthings/popicons/blob/main/LICENSE).
 
-> [!IMPORTANT]
-> The MIT license applies exclusively to free icons.
+The MIT license applies exclusively to free icons.
 
 ## Support
 
