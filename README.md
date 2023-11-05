@@ -33,12 +33,7 @@ Designed by [filip](https://x.com/filipistyping), Popicons offers line, solid, a
   - [SVG](#svg)
   - [React](#react)
   - [React Native](#react-native)
-- [Get Popicons Pro via the npm CLI](#get-popicons-pro-via-the-npm-cli)
-  - [Installation](#installation)
-  - [Import](#import)
-  - [Upgrade](#upgrade)
 - [Figma plugin](#figma-plugin)
-- [🎈 Popicons Pro](#get-popicons-pro)
 - [Support](#support)
 
 <br>
@@ -104,56 +99,9 @@ function ReactNativeApp() {
 npm i @popicons/react-native@latest
 ```
 
-
 Popicons follow the naming convention: `Popicons{IconName}{Variant}`. Use your IDE's auto-complete for a list of available icons, or simply use [website search](https://popicons.cc/icons).
 
 Popicons support tree shaking, ensuring only used icons are bundled.
-
-<br>
-
-## Get Popicons Pro via the npm CLI
-
-### Installation
-```
-npx i popicons@latest
-```
-
-**Commands:**
-
-```
-    npx popicons@latest upgrade             Upgrade to Popicons Pro
-    npx popicons@latest login               Log in to Popicons Pro
-    npx popicons@latest logout              Log out of Popicons Pro
-    npx popicons@latest ls                  List Popicons
-    npx popicons@latest i                   Install Popicons
-    npx popicons@latest request-icon        Request a Popicons icon
-    npx popicons@latest request-icon-set    Request a custom icon set
-```
-
-To quickly install Popicons as React TypeScript, simply run the following commands:
-
-```
-npx popicons@latest login
-npx popicons@latest i --outdir=src/popicons --framework=react-tsx
-```
-
-The npm CLI saves icons as source code e.g. `popicons.tsx`, so that it's easier to move between devices. You can technically set `--outdir` to `--outdir=node_modules` but this is not recommended because icons won't automatically be installed when calling `npm i`.
-
-### Import
-
-```tsx
-import { PopiconsHomeLine, PopiconsHomeSolid, PopiconsHomeDuotone } from "./popicons/popicons"
-```
-
-### Upgrade
-
-To upgrade using the npm CLI, simply run the following command:
-
-```
-npx popicons@latest i --outdir=src/popicons --framework=react-tsx --force
-```
-
-The `--force` command is used to overwrite `src/popicons`. You may also delete `src/popicons` manually and retry without the force command.
 
 <br>
 
@@ -163,11 +111,6 @@ Popicons is available as a [Figma plugin](https://www.figma.com/community/plugin
 
 <br>
 
-## Get Popicons Pro
-
-To upgrade to Popicons Pro which unlocks all of the icons, [follow this link](https://popicons.cc/#pricing). 
-
-<br>
 
 ## License
 
