@@ -107,16 +107,14 @@ Popicons support tree shaking, ensuring only used icons are bundled.
 
 ## Figma plugin
 
-Popicons is available as a [Figma plugin](https://www.figma.com/community/plugin/1293959934134570572/popicons) as well.
+Popicons are available as a [Figma plugin](https://www.figma.com/community/plugin/1293959934134570572/popicons) as well.
 
 <br>
 
 
 ## License
 
-Popicons is licensed as [MIT open source](https://github.com/uxthings/popicons/blob/main/LICENSE).
-
-The MIT license applies exclusively to free icons.
+Popicons are licensed as [MIT open source](https://github.com/uxthings/popicons/blob/main/LICENSE).
 
 <br>
 
