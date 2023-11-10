@@ -1,6 +1,6 @@
-<svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-  <rect y="2" width="20" height="16" rx="4.5" fill="currentColor" fill-opacity="0.2" />
-  <path d="M0.00100413 7.5C0 7.65771 0 7.82414 0 8H20C20 7.13256 20 6.49457 19.8795 6H0.120511C0.0244314 6.39431 0.00495301 6.87977 0.00100413 7.5Z" fill="currentColor" />
-  <path fill-rule="evenodd" d="M3.25 13C3.25 12.5858 3.58579 12.25 4 12.25H6C6.41421 12.25 6.75 12.5858 6.75 13C6.75 13.4142 6.41421 13.75 6 13.75H4C3.58579 13.75 3.25 13.4142 3.25 13Z" fill="currentColor" />
-  <path fill-rule="evenodd" d="M8.25 13C8.25 12.5858 8.58579 12.25 9 12.25H13C13.4142 12.25 13.75 12.5858 13.75 13C13.75 13.4142 13.4142 13.75 13 13.75H9C8.58579 13.75 8.25 13.4142 8.25 13Z" fill="currentColor" />
+<svg width="20" height="20" viewBox="0 0 20 20" fill="currentcolor" xmlns="http://www.w3.org/2000/svg">
+  <rect y="2" width="20" height="16" rx="4.5" fill="currentcolor" fill-opacity="0.2" />
+  <path d="M0.00100413 7.5C0 7.65771 0 7.82414 0 8H20C20 7.13256 20 6.49457 19.8795 6H0.120511C0.0244314 6.39431 0.00495301 6.87977 0.00100413 7.5Z" fill="currentcolor" />
+  <path fill-rule="evenodd" d="M3.25 13C3.25 12.5858 3.58579 12.25 4 12.25H6C6.41421 12.25 6.75 12.5858 6.75 13C6.75 13.4142 6.41421 13.75 6 13.75H4C3.58579 13.75 3.25 13.4142 3.25 13Z" fill="currentcolor" />
+  <path fill-rule="evenodd" d="M8.25 13C8.25 12.5858 8.58579 12.25 9 12.25H13C13.4142 12.25 13.75 12.5858 13.75 13C13.75 13.4142 13.4142 13.75 13 13.75H9C8.58579 13.75 8.25 13.4142 8.25 13Z" fill="currentcolor" />
 </svg>
