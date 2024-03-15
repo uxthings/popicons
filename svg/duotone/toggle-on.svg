@@ -1,0 +1,17 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 20 20"
+  fill="none"
+>
+  <path
+    d="M0 10C0 6.68629 2.68629 4 6 4H14C17.3137 4 20 6.68629 20 10C20 13.3137 17.3137 16 14 16H6C2.68629 16 0 13.3137 0 10Z"
+    fill="currentColor"
+    fill-opacity="0.2"
+  />
+  <path
+    d="M6 14C8.20914 14 10 12.2091 10 10C10 7.79086 8.20914 6 6 6C3.79086 6 2 7.79086 2 10C2 12.2091 3.79086 14 6 14Z"
+    fill="currentColor"
+  />
+</svg>
