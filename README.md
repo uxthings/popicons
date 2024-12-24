@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/uxthings/popicons/releases"><img src="https://img.shields.io/npm/v/popicons" alt="Latest Release"></a>
+    <a href="https://github.com/uxthings/popicons/releases"><img src="https://img.shields.io/npm/v/@popicons/react" alt="Latest Release"></a>
     <a href="https://github.com/uxthings/popicons/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License"></a>
 </p>
 
